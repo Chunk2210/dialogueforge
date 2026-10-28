@@ -1,0 +1,9 @@
+{
+  "id": "scene-draft",
+  "name": "Scene Draft",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Beat-drafting workspace with AI: write raw scene beats in a note, select them, and continue the beats or turn them into prose.",
+  "author": "Juancito",
+  "isDesktopOnly": false
+}
